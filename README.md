@@ -72,18 +72,16 @@ This approach offers clear separation of concerns, easy unit‑testing, and scal
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
 
-### Details Screen
-![Details Screen](screenshots/book_details_screen.png)
+<p align="center">
+  <img src="screenshots/home_screen.png" width="250"/>
+  <img src="screenshots/book_details_screen.png" width="250"/>
+</p>
 
-
-### Search Screen
-![Search Screen](screenshots/search_screen.png)
-
-### Favorite Screen
-![Favorite Screen](screenshots/favorite_books_screen.png)
+<p align="center">
+  <img src="screenshots/search_screen.png" width="250"/>
+  <img src="screenshots/favorite_books_screen.png" width="250"/>
+</p>
 
 
 ---
