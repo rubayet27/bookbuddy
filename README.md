@@ -74,12 +74,14 @@ This approach offers clear separation of concerns, easy unit‑testing, and scal
 
 
 <p align="center">
-  <img src="screenshots/home_screen.png" width="250"/>
+  <img src="screenshots/home_screen.png" width="250"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/book_details_screen.png" width="250"/>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="screenshots/search_screen.png" width="250"/>
+  <img src="screenshots/search_screen.png" width="250"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/favorite_books_screen.png" width="250"/>
 </p>
 
